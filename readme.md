@@ -1,4 +1,4 @@
-Установить connectionString в appsettings.json
-dotnet build 
-dotnet run
-http://localhost:5000/
+#### Установить connectionString в appsettings.json
+#### dotnet build 
+#### dotnet run
+#### http://localhost:5000/
